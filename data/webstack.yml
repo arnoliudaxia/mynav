@@ -43,7 +43,7 @@
           url: https://www.hifini.com/
 
 - taxonomy: 游戏
-  icon: fa-download
+  icon: fa-chess
   list: 
     - term: switch
       links:
