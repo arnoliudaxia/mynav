@@ -19,20 +19,7 @@
   links: 
     - title: Github
       url: https://github.com/
-  
-- taxonomy: 游戏
-  icon: fa-download
-  list: 
-    - term: switch
-      links:
-        - title: 时鹏亮的Blog
-          url: https://shipengliang.com/
-          description: 其实还有其他主机的资源
-    - term: PC
-      links:
-        - title: 老男人游戏网
-          url: https://www.oldmantvg.net/
-          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
+
           
 - taxonomy: 影视影音
   icon: fa-video-camera
@@ -55,13 +42,17 @@
         - title: 音乐磁场
           url: https://www.hifini.com/
 
-- taxonomy: 友情链接
-  icon: fa-link
-  friend:
-    - title: 一为导航
-      url: https://nav.iowen.cn/
-      description: onenav主题演示站
-    - title: 趣导航
-      url: https://qssily.com/
-      
+- taxonomy: 游戏
+  icon: fa-download
+  list: 
+    - term: switch
+      links:
+        - title: 时鹏亮的Blog
+          url: https://shipengliang.com/
+          description: 其实还有其他主机的资源
+    - term: PC
+      links:
+        - title: 老男人游戏网
+          url: https://www.oldmantvg.net/
+          description: 仓储式主机资源站 精校 完整 极致 静待您的垂青
 ---
