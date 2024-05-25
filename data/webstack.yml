@@ -55,16 +55,13 @@
         - title: 音乐磁场
           url: https://www.hifini.com/
 
-# - taxonomy: 友情链接
-#   icon: fa-link
-#   friend:
-#     - title: 子页面一
-#       url: sub1
-#       description: 本站子页面一，对应content目录的sub1.md，可重命名、删除、复制。
-#     - title: 一为导航
-#       url: https://nav.iowen.cn/
-#       description: onenav主题演示站
-#     - title: 趣导航
-#       url: https://qssily.com/
+- taxonomy: 友情链接
+  icon: fa-link
+  friend:
+    - title: 一为导航
+      url: https://nav.iowen.cn/
+      description: onenav主题演示站
+    - title: 趣导航
+      url: https://qssily.com/
       
 ---

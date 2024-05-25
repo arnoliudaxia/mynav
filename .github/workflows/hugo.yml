@@ -73,3 +73,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v3
+      - name: FeiShu
+        run: curl -X POST \
+      -H "Content-Type: application/json" \
+      -d '{"msg_type":"text","content":{"text":"Github构建导航网页完毕"}}' \
+      ${{ secrets.FEISHU_URL }}
