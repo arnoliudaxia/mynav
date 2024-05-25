@@ -50,6 +50,20 @@
         - title: 时鹏亮的Blog
           url: https://shipengliang.com/
           description: 其实还有其他主机的资源
+        - title: Tinfoil Documentation
+          url: https://blawar.github.io/tinfoil/custom_index/
+          description: Tinfoil shop构建说明
+        - title: tinson–Tinfoil shop json生成器
+          url: https://tinson.herokuapp.com/
+          description: 用来自制shop，不过只支持googledrive
+          
+    - term: 在线小游戏
+        - title: Sudoku数独
+          url: https://sudoku.jull.dev/
+          description:
+        - title: The Cube
+          url: https://bsehovac.github.io/the-cube/
+          description:  在线拧魔方     
     - term: PC
       links:
         - title: 老男人游戏网
