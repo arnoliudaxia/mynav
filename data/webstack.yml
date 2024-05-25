@@ -20,15 +20,15 @@
     - title: Github
       url: https://github.com/
   
-- taxonomy: 网络资源
+- taxonomy: 游戏
   icon: fa-download
   list: 
-    - term: 软件
+    - term: switch
       links:
-        - title: 果核剥壳
-          url: https://www.ghxi.com/
-          description: 互联网的净土。PC软件，手机软件，正版软件，破解软件
-    - term: 游戏
+        - title: 时鹏亮的Blog
+          url: https://shipengliang.com/
+          description: 其实还有其他主机的资源
+    - term: PC
       links:
         - title: 老男人游戏网
           url: https://www.oldmantvg.net/
