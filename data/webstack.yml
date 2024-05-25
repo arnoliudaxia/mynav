@@ -56,8 +56,8 @@
         - title: tinson–Tinfoil shop json生成器
           url: https://tinson.herokuapp.com/
           description: 用来自制shop，不过只支持googledrive
-          
     - term: 在线小游戏
+      links:
         - title: Sudoku数独
           url: https://sudoku.jull.dev/
           description:
