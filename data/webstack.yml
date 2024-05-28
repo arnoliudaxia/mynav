@@ -1,4 +1,19 @@
 ---
+- taxonomy: 学术
+  icon: fa-video-camera
+  list: 
+    - term: 论文
+      links:
+        - title: 国家哲学社会科学学术期刊数据库
+          url: http://www.nssd.cn/
+          description: 直接下载国家下场
+        - title: iData论文免费
+          url: https://www.cn-ki.net/
+          description: 可以免费下载论文，bhwyaip7m@mail.0du.win
+        - title: 中国知网
+          url: https://www.cnki.net/
+          description:
+          
 - taxonomy: 常用工具
   icon: fa-star
   links: 
