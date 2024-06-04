@@ -117,9 +117,9 @@
         <h4 class="text-gray" style="display: inline-block;"><i class="fa {{ $subicon }}" style="margin-right: 27px;" id="{{ md5 .term }}"></i>{{ .term }}</h4>
             <div class="row">
             {{ range .links }}
-                {{ if .qrcode }}
+                {{ if true }}
                 <div class="xe-card col-xs-6 col-sm-4 col-md-3 qrcode geticon">
-                    <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='{{ .qrcode }}' width='128'>">
+                    <a href="{{ .url }}" target="_blank" class="xe-widget xe-conversations box2 label-info" data-toggle="tooltip" data-placement="bottom" data-html="true" title="<img src='https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={{ .url }}' width='128'>">
                         <div class="xe-comment-entry">
                             <div class="xe-user-img">
                                 <img class="img-circle lazy" src="./images/favicon.png" data-src="{{ .logo }}" onerror="javascript:this.src='./images/favicon.png'" width="40">
