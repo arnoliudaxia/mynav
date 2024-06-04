@@ -1,4 +1,10 @@
 ---
+- taxonomy: 我的DIY
+  icon: fa-universal-access
+  links: 
+    - title: 我的streamlit工具集
+      url: https://sttools.arnoliu.top
+      description:
 - taxonomy: 学术
   icon: fa-graduation-cap
   list: 
@@ -34,27 +40,635 @@
           description: 
         - title: 大数据导航
           url: http://hao.199it.com/
-          description: 数据调查门户网站        
-- taxonomy: 常用工具
-  icon: fa-star
-  links: 
-    - title: 网络剪贴板
-      url: https://netcut.cn/
-      logo: images/logos/xxx.png
-      qrcode: https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://netcut.cn/
-      description: 在线跨屏剪切文字
-    - title: 草料二维码
-      qrcode: images/qrcodes/cli.png
-      url: https://cli.im/url
-      description: 在线二维码生成工具
-    - title: 在线文件传输
-      url: https://musetransfer.com/
+          description: 数据调查门户网站      
+        - title: 国家统计局国家数据（官）
+          url: https://data.stats.gov.cn/index.htm
+          description: 国家下场
+        - title: 中国政府采购数据库（官）
+          url: http://www.ccgp.gov.cn/
+          description: 
+    - term: 广义数学
+      links:
+        - title: 看见统计
+          url: https://seeing-theory.brown.edu/cn.html#firstPage
+          description: 可视化概率与统计入门
+        - title: mathigon
+          url: https://cn.mathigon.org/
+          description: 数学游乐场
+        - title: 统计之都
+          url: https://cosx.org/
+          description: 统计学学术新闻，来源邱子羽老师
+    - term: 科普新闻
+      links:
+        - title: Nicky’s website
+          url: https://ncase.me/
+          description:
+        - title: whatif漫画奇想
+          url: https://whatif.xkcd.com/
+          description:
+        - title: 蓝点网
+          url: https://www.landian.vip/
+          description: 科技咨询
+        - title: Crash Course 中文字幕组
+          url: https://crashcourse.club/
+          description: 高质量的crash course翻译，但是部分…
+    - term: 学术工具
+      links:
+        - title: 在线公式识别SimpleTex
+          url: https://www.simpletex.cn/
+          description:
+        - title: latex表格生成器
+          url: https://www.tablesgenerator.com/
+          description:
+        - title: overleaf超强在线latex
+          url: https://cn.overleaf.com/project
+          description:
+        - title: LaTeX公式编辑器ver1.6.3
+          url: https://www.latexlive.com/home##
+          description: 体验4颗星
+    - term: Wiki
+      links:
+        - title: 小时百科
+          url: https://wuli.wiki/online/index.html
+          description:
 
-- taxonomy: 云服务平台
-  icon: fa-cloud
-  links: 
-    - title: Github
-      url: https://github.com/
+    - term: 初高中教育
+      links:
+        - title: 上海微校
+          url: https://smile.shec.edu.cn/#/
+          description:
+        - title: 古诗文网
+          url: https://www.gushiwen.cn/default_1.aspx
+          description:
+        - title: 我是学生网
+          url: http://www1.xuesheng360.cn/xuesheng/e/wap/daan_sh.php
+          description:
+
+    - term: 研究机构
+      links:
+        - title: Our World in Data
+          url: https://ourworldindata.org/
+          description:
+- taxonomy: 工具
+  icon: fa-inbox
+  list: 
+    - term: 语言工具
+      links:
+        - title: Emojityper
+          url: https://emojityper.com/
+          description: 方便输入emoji的小工具
+        - title: 希腊字母书写教程
+          url: http://www.foundalis.com/lan/hw/grkhandw.htm
+          description: Greek Handwriting — Handwritten letters
+        - title: 小楠日语
+          url: https://o-oo.net.cn/japaneseocr/
+          description: 日语相关工具OCR
+    
+    - term: 文本工具
+      links:
+        - title: 文本差异对比
+          url: https://diff.buyaocha.com/
+          description: 非常适合hex文件的对比
+        - title: txt文本处理
+          url: http://www.txttool.com/
+          description: 很多工具，就是不太好找到
+        - title: 歌词字幕格式转换
+          url: http://www.lrccon.com/convert.php
+          description:
+        - title: 网络剪贴板
+          url: https://netcut.cn/
+          description: 在线跨屏剪切文字
+    - term: 图片工具
+      links:
+        - title: clipdrop-AI图像处理工具箱
+          url: https://clipdrop.co/
+          description:
+        - title: 佐糖
+          url: https://picwish.cn/
+          description: 抠图、去除
+        - title: 图片Exif信息查看
+          url: https://www.strerr.com/cn/exif.html
+          description: 可以方便的随意抹掉位置
+        - title: 固定图头像裁切器
+          url: https://crop-circle.imageonline.co/cn/
+          description:
+        - title: 图片背景消除
+          url: https://www.remove.bg/zh
+          description:
+
+        - title: Upscale Media
+          url: https://www.upscale.media/zh
+          description: 图片放大，免费使用
+        - title: Bigjpg
+          url: https://bigjpg.com/
+          description: AI人工智能图片放大
+        - title: TinyPNG
+          url: https://tinypng.com/
+          description: 不受文件大小限制5M
+        - title: iLoveIMG
+          url: https://www.iloveimg.com/zh-cn/compress-image
+          description:
+        - title: 蚂蚁压缩
+          url: https://ant.ciding.cc/
+          description: 图片压缩下载工具，最好不要当做外链
+
+    - term: PDF工具
+      links:
+        - title: 云展网办公工具集
+          url: https://www.yunzhan365.com/tools/split-pdf
+          description:
+        - title: iLovePDF
+          url: https://www.ilovepdf.com/zh-tw
+          description: 编辑处理格式转换
+        - title: SmallPdf
+          url: https://smallpdf.com/cn/unlock-pdf
+          description: 很长CD，无痕可绕过
+
+    - term: 音频工具
+      links:
+        - title: vocalremover
+          url: https://vocalremover.org/zh
+          description: 声音分离（人声、乐器）、变调、剪辑、合并
+- taxonomy: 办公
+  icon: fa-coffee
+  list: 
+    - term: ==文件专家==
+    - term: 文件传输
+      links:
+        - title: 奶牛快传
+          url: https://cowtransfer.com/
+          description: 需要登录，可以传大文件
+        - title: musetransfer
+          url: https://musetransfer.com/
+          description: 2G以内可以传，可以吃满宽带
+        - title: 文叔叔 – 传文件
+          url: https://www.wenshushu.cn/
+          description:
+        - title: Wormhole
+          url: https://wormhole.app/
+          description: 无需登录，速度尚可
+        - title: UC文件传输
+          url: https://fast.uc.cn/
+          description: 可以微信登录，没有其他限制
+
+    - term: 网盘
+      links:
+        - title: 夸克网盘
+          url: https://pan.quark.cn/
+          description:
+        - title: GoogleDrive
+          url: https://drive.google.com/drive
+          description:
+        - title: PikPak网盘
+          url: https://pikpak.progo.cc/
+          description: 可以无限离线，免费6G的离谱网盘
+        - title: 123网盘
+          url: https://www.123pan.com/
+          description:
+        - title: 和彩云
+          url: https://caiyun.feixin.10086.cn
+          description:
+        - title: 蓝奏云
+          url: https://www.lanzou.com/u
+          description: 只能存小文件
+        - title: 阿里网盘
+          url: https://www.aliyundrive.com/drive/
+          description:
+        - title: 腾讯微云
+          url: https://www.weiyun.com/disk
+          description: 个人云盘主页直链
+        - title: 一刻相册
+          url: https://photo.baidu.com/photo/web/home
+          description:
+        - title: dropbox
+          url: https://www.dropbox.com/home
+          description: 有墙
+        - title: 天翼云
+          url: https://cloud.189.cn
+          description:
+
+    - term: 格式转换
+      links:
+        - title: Convertio
+          url: https://convertio.co/zh/
+          description:
+        - title: aconvert
+          url: https://www.aconvert.com/cn/
+          description: 在线转换各类PDF，文档，电子书，图像，图标，视频，音频和压缩文件。
+
+    - term: 文件浏览器
+      links:
+        - title: Neat Reader EPUB阅读器
+          url: http://www.neat-reader.cn/app#/
+          description:
+
+    - term: ==江湖中人==
+
+    - term: 临时邮箱
+      links:
+        - title: tempmail
+          url: https://temp-mail.org/zh/
+          description:
+        - title: 无名
+          url: https://www.linshiyouxiang.net/
+          description:
+        - title: Jaz Mail
+          url: http://mail.0du.win/
+          description: 带有cookie，持久化邮箱
+
+    - term: 临时手机
+      links:
+        - title: 北美验证码接码
+          url: https://sms.qisms.com/index
+          description:
+        - title: sms-activate
+          url: https://sms-activate.org/cn
+          description:
+
+    - term: 接码平台
+      links:
+        - title: 北美手机接码
+          url: https://sms.qisms.com/index
+          description:
+
+    - term: =剪辑狗==
+      links:
+        - title: Fliki
+          url: https://app.fliki.ai/studio
+          description: Turn text into videos with AI voices
+        - title: 一帧秒创
+          url: https://aigc.yizhentv.com/
+          description:
+
+    - term: 转录
+      links:
+        - title: 通义听悟
+          url: https://tingwu.aliyun.com/home?utm_source=ai-bot.cn
+          description:
+        - title: 飞书——妙记
+          url: https://feishu.cn/minutes
+          description:
+        - title: AITTS
+          url: https://www.44886.com/tts
+          description: 一个效果非常不错的AI TTS引擎
+        - title: 网易见外工作台
+          url: https://jianwai.netease.com/index/0
+          description: 仍然免费，保留全功能
+        - title: 悦录
+          url: http://www.voiceclub.cn/#/home/allaudio
+          description: 音视频没有时间线
+
+    - term: TTS
+      links:
+        - title: ll Eleven Labs
+          url: https://beta.elevenlabs.io/speech-synthesis
+          description: 英文，非常逼真
+
+    - term: ==文案狗==
+      links:
+        - title: 火龙果写作
+          url: https://web.mypitaya.com/
+          description:
+        - title: 图说
+          url: https://tushuo.baidu.com/wave/index#/gallery
+          description: 在线图标绘制工具，可以导出Echarts代码，也可以导出图片
+        - title: 秘塔写作猫
+          url: https://xiezuocat.com/
+          description: 中文语法提示，语义理解，一键纠错，一键导入
+
+    - term: ==团队协作==
+
+    - term: 白板工具
+      links:
+        - title: boardmix
+          url: https://boardmix.cn/app/home
+          description:
+        - title: Miro
+          url: https://miro.com/app/dashboard/
+          description:
+
+    - term: 自动化
+      links:
+        - title: pipedream
+          url: https://pipedream.com/
+          description:
+
+
+
+- taxonomy: 网络工程
+  icon: fa-link 
+  list: 
+    - term: 网盘解析
+      links:
+        - title: kinhdown网盘解析
+          url: https://kinhdown.com/?Type=Web
+          description: 解析百度云和天翼云
+        - title: 天翼云直链解析 – 涟漪
+          url: https://189.ly93.cc/
+          description: https://189.ly93.cc/#分享id
+        - title: 网盘直链获取工具v1.8
+          url: https://link.gimhoy.com/
+          description: 支持onedrive，google drive，dropbox，天翼云，蓝奏云
+
+    - term: 短网址
+      links:
+        - title: URLC.CN短网址
+          url: https://www.urlc.cn/
+          description: 需要验证码
+        - title: 时光机
+          url: https://cui.la/
+          description: 方便有效的工具，五星推荐
+
+    - term: API
+      links:
+        - title: 韩小韩WebAPI接口
+          url: https://api.vvhan.com/
+          description: 致力于为开发者提供便捷、免费、稳定、快速的免费Web API数据接口服务。
+        - title: portquiz
+          url: http://portquiz.net:78
+          description: 测试端口连通性
+        - title: ACL4SSR_在线订阅转换
+          url: https://acl4ssr.netlify.app
+          description: 一些订阅转换服务网站收集
+
+        - title: 获取网站的 favicon
+          url: http://favicon.cccyun.cc/
+          description: 简单的获取网站favicon的api，速度不快
+
+    - term: 端口映射工具
+      links:
+        - title: ddnsto
+          url: https://www.ddnsto.com/app/#/devices
+          description: HTTP映射
+        - title: 量子互联
+          url: http://du.nsloop.com/#
+          description: 内网穿透、DDNS、异地组网、公网ip
+        - title: nat123
+          url: http://www.nat123.com/UsersProductDetail.jsp?operator=buyer&hexId=73a8c693b8a848a3a9e9ef61e0741fed
+          description:
+
+    - term: 图床
+      links:
+        - title: 路过图床
+          url: https://imgchr.com
+          description: 只能图片不过免费长期
+        - title: Postimages
+          url: https://postimages.org/
+          description: 路过图床的备选
+        - title: 薄荷图床
+          url: https://riyugo.com/
+          description: 基本文件类型三天有效期，可以离线上传，可以制作favicon图标
+        - title: imgtp图床
+          url: https://imgtp.com/
+          description: 完全免费有API
+        - title: imgBB
+          url: https://imgbb.com/
+          description: 多格式支持32MB大容量
+
+    - term: 运维人
+      links:
+        - title: 阿里云控制台
+          url: https://homenew.console.aliyun.com/home/scene/ProductAndService
+          description:
+        - title: cloudflare
+          url: https://dash.cloudflare.com
+          description:
+        - title: instant.page
+          url: https://instant.page/
+          description: 预加载页面来起到加速的作用
+        - title: OHTTPS
+          url: https://www.ohttps.com/monitor/dashboard
+          description: 首选免费证书，支持泛域名
+        - title: 华为云控制台
+          url: https://console.huaweicloud.com/console
+          description:
+        - title: 百度云控制台
+          url: https://console.bce.baidu.com
+          description:
+        - title: 来此加密
+          url: https://letsencrypt.osfipin.com/
+          description: 非首选，支持泛域名，但无法自动续订
+        - title: ssleye-SSL工具
+          url: https://www.ssleye.com/ssltool/
+          description: 为用户提供证书工具、校验工具、SSL漏洞检测等多达20多种SSL工具，如CSR查看、证书查看、测试证书生成、证书格式转换、CAA检测、ATS检测、小程序SSL检测、SSL漏洞检测等。
+        - title: PageSpeed Insights
+          url: https://pagespeed.web.dev/
+          description: Google的网站性能分析工具，会给出一些专业建议
+
+    - term: wordpress相关资源
+      links:
+        - title: tasteWP
+          url: https://tastewp.com
+          description: 免费试用wordpress，真香！
+        - title: 2020年WordPress必装插件推荐
+          url: https://wordpressjc.com/plugins
+          description:
+        - title: wordpress大学
+          url: https://www.wpdaxue.com
+          description: 内容非常之多
+
+
+    - term: 文件直链
+      links:
+        - title: catbox
+          url: https://catbox.moe/#
+          description:
+        - title: 123云盘
+          url: https://www.123pan.com/
+          description: 需要开通VIP，但是不贵
+    - term: SaaS
+      links:
+        - title: CloudFlare网络测速报告
+          url: https://speed.cloudflare.com/
+          description:
+        - title: cron-job
+          url: https://console.cron-job.org/
+          description: 自动定期访问网页
+
+- taxonomy: 素材网站
+  icon: fa-paint-brush
+  list: 
+    - term: 综合素材
+      links:
+        - title: 千图网
+          url: https://www.58pic.com/
+          description:
+
+    - term: 大图素材
+      links:
+        - title: Unsplash
+          url: https://unsplash.com/
+          description: 虽然只有英文，但是它什么东西都有啊
+        - title: 西田图像·SITAPIX
+          url: https://www.sitapix.com/
+          description: 人性化分类，海量素材，良好版权标示
+        - title: 极简壁纸
+          url: https://bz.zzzmh.cn/index
+          description:
+        - title: pexels
+          url: https://www.pexels.com/zh-cn/
+          description: 摄影作品和影像
+        - title: Hippox
+          url: https://www.hippopx.com/zh/popular
+          description: 超清背景图，可中文搜索
+        - title: pixabay
+          url: https://pixabay.com
+          description: 大名鼎鼎
+        - title: FoodiesFeed
+          url: https://www.foodiesfeed.com/
+          description: 国外稍慢，食品素材
+
+    - term: 插画素材
+      links:
+        - title: iconfont
+          url: https://www.iconfont.cn
+          description: 图标+插画
+        - title: blush
+          url: https://blush.design/zh-CN
+          description: 可以定制插画！
+        - title: Reshot
+          url: https://www.reshot.com/
+          description:
+        - title: Flaticon
+          url: https://www.flaticon.com
+          description: 图标贴纸，Chrome，png免费
+        - title: pixabay
+          url: https://pixabay.com
+          description: 大名鼎鼎
+
+    - term: 图标素材
+      links:
+        - title: iconfont
+          url: https://www.iconfont.cn
+          description: 图标+插画
+        - title: iconpark
+          url: https://iconpark.oceanengine.com/official
+          description: 可自定义图标
+        - title: logotyp
+          url: https://logotyp.us/
+          description: 商标图标
+        - title: worldvectorlogo
+          url: https://worldvectorlogo.com/
+          description: Brand Logos
+        - title: Animated Fluent Emojis
+          url: https://animated-fluent-emoji.vercel.app/
+          description: 微软动画表情 apng
+        - title: Reshot
+          url: https://www.reshot.com/
+          description:
+        - title: Flaticon
+          url: https://www.flaticon.com
+          description: 图标贴纸，Chrome，png免费
+
+    - term: 影像素材
+      links:
+        - title: lifeofvids
+          url: https://lifeofvids.com
+          description: 生活类题材的视频片段
+        - title: pexels
+          url: https://www.pexels.com/zh-cn/
+          description: 摄影作品和影像
+        - title: videvo
+          url: https://www.videvo.net/
+          description: 视频片段素材
+        - title: Mazwai
+          url: https://mazwai.com/stock-video-footage
+          description: 需翻墙，高分辨率视频片段
+
+    - term: 音乐素材
+      links:
+        - title: videvo
+          url: https://www.videvo.net/royalty-free-music
+          description: 有分类无限制
+
+    - term: 颜色配置
+      links:
+        - title: Trending Color Palettes
+          url: https://coolors.co/palettes/trending
+          description:
+        - title: FLAT UI COLORS 2
+          url: https://flatuicolors.com/
+          description:
+        - title: designgradients
+          url: https://www.designgradients.com/
+          description:
+        - title: Dracula黑暗系主题
+          url: https://draculatheme.com/
+          description:
+        - title: webgradients
+          url: https://webgradients.com/
+          description: 渐变色模板，格式色码和CSS
+
+    - term: 字体素材
+      links:
+        - title: 自由字体
+          url: https://ziyouziti.com/
+          description: 所有都可商用，下载简单
+        - title: 51Font
+          url: https://51font.17font.com/
+          description:
+        - title: 下载字体网
+          url: http://xiazaiziti.com/
+          description: 部分字体能直接下
+        - title: github
+          url: https://github.com/search?q=方正*.ttf&type=Code
+          description: 可以直接在github上找字体源文件
+        - title: 猫啃网
+          url: https://www.maoken.com/
+          description: 免费商业中英文字体
+
+    - term: 游戏素材
+      links:
+        - title: kenney
+          url: https://www.kenney.nl/assets
+          description: 独立游戏素材
+
+    - term: 音效素材
+      links:
+        - title: 第一PPT > PPT音效
+          url: https://www.1ppt.com/music/music_6.html
+          description:
+
+    - term: 3D模型素材
+      links:
+        - title: AnythingWorld
+          url: https://app.anything.world/gallery
+          description: Google的lowploy模型+AI动画
+        - title: sketchfab
+          url: https://sketchfab.com/feed
+          description:
+
+    - term: 材质素材
+      links:
+        - title: ambientCG
+          url: https://ambientcg.com/
+          description: 高质量skybox, 材质
+
+    - term: HTML素材
+      links:
+        - title: 图说
+          url: https://tushuo.baidu.com/wave/index#/gallery
+          description: 在线图标绘制工具，可以导出Echarts代码，也可以导出图片
+        - title: notionpet
+          url: https://notion.pet/#/
+          description: 各种有趣的HTML小组件。可以用于notion，也可以放在iframe里
+        - title: Shields
+          url: https://shields.io
+          description: Github小牌子
+        - title: Chart.js
+          url: www.chartjs.org
+          description: 中文https://chartjs.bootcss.com/
+        - title: fontawesome
+          url: https://fontawesome.com/icons
+          description: 安装见https://fontawesome.com/start
+        - title: FeatherICON
+          url: https://feathericons.com/
+          description:
+        - title: EMOJI CSS
+          url: https://emoji-css.afeld.me/
+          description: 墙；用CSS就可以使用Emoji
+
+
 
           
 - taxonomy: 影视影音
