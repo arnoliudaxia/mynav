@@ -1,6 +1,6 @@
 ---
 - taxonomy: 学术
-  icon: fa-video-camera
+  icon: fa-graduation-cap
   list: 
     - term: 论文
       links:
@@ -13,7 +13,28 @@
         - title: 中国知网
           url: https://www.cnki.net/
           description:
-          
+    - term: 商业研究
+      links:
+        - title: 199IT
+          url: http://www.199it.com/
+          description: TMT行业研究
+        - title: 发现报告
+          url: https://www.fxbaogao.com/
+          description: 平台全面覆盖宏观策略、行业分析、公司研究、财报、招股书、定制报告等内容。      
+        - title: 艾瑞网
+          url: https://report.iresearch.cn/
+          description: 行业研究报告，免费公开   
+    - term: 数据库
+      links:
+        - title: 字节热点
+          url: https://trendinsight.oceanengine.com/arithmetic-index
+          description: 
+        - title: 百度热点指数
+          url: https://index.baidu.com/v2/index.html#/
+          description: 
+        - title: 大数据导航
+          url: http://hao.199it.com/
+          description: 数据调查门户网站        
 - taxonomy: 常用工具
   icon: fa-star
   links: 
