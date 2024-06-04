@@ -5,6 +5,15 @@
     - title: 我的streamlit工具集
       url: https://sttools.arnoliu.top
       description:
+    - title: CS人类的自我修养
+      url: https://cs.super.site/
+      description:
+    - title: 网站集
+      url: 
+      description:
+    - title: fileshare
+      url: https://fileshare.liuyf7.top/
+      description: 文件分享站点
 - taxonomy: 学术
   icon: fa-graduation-cap
   list: 
@@ -109,6 +118,8 @@
         - title: Our World in Data
           url: https://ourworldindata.org/
           description:
+
+
 - taxonomy: 工具
   icon: fa-inbox
   list: 
@@ -352,8 +363,6 @@
         - title: pipedream
           url: https://pipedream.com/
           description:
-
-
 
 - taxonomy: 网络工程
   icon: fa-link 
@@ -669,28 +678,408 @@
           description: 墙；用CSS就可以使用Emoji
 
 
-
-          
-- taxonomy: 影视影音
-  icon: fa-video-camera
+- taxonomy: 工程技术
+  icon: fa-ethernet
   list: 
-    - term: 影视
+    - term: 3d打印
       links:
+        - title: Printrun
+          url: http://www.pronterface.com/
+          description: 开源marlin打印机上位机
+        - title: thingiverse
+          url: https://www.thingiverse.com
+          description:
+        - title: 3dwriter
+          url: https://3dwriter.io/home
+          description: 让3d打印机可以写字
+
+    - term: 无线电通信
+      links:
+        - title: DTMF拨号音解码
+          url: https://xiangyuecn.github.io/Recorder/assets/%E5%B7%A5%E5%85%B7-%E4%BB%A3%E7%A0%81%E8%BF%90%E8%A1%8C%E5%92%8C%E9%9D%99%E6%80%81%E5%88%86%E5%8F%91Runtime.html?jsname=teach.dtmf.decode_and_encode
+          description: DTMF信号的调制与解调
+
+    - term: 地理科学
+      links:
+        - title: 百度地图定位
+          url: https://lbsyun.baidu.com/jsdemo/demo/yLngLatLocation.htm
+          description:
+        - title: 高德地图定位选点
+          url: https://lbs.amap.com/tools/picker
+          description:
+        - title: 谷歌地图
+          url: https://www.google.com/maps
+          description:
+        - title: 行政区划着色
+          url: https://www.opengps.cn/Map/Tools/Area.aspx
+          description: 形象地展示一个行政区域的边界
+
+- taxonomy: 论坛站点
+  icon: fa-users 
+  links:
+    - title: Anywhere WLAN!随时随地无线
+      url: https://www.anywlan.com/
+      description:
+    - title: 52pojie
+      url: https://www.52pojie.cn
+      description:
+    - title: 看雪（安全）
+      url: https://bbs.pediy.com/
+      description:
+
+- taxonomy: 编程IT
+  icon: fa-info
+  list:
+    - term: js
+      links:
+        - title: 菜鸟JS压缩与反压缩
+          url: https://c.runoob.com/front-end/51/
+          description:
+
+    - term: Docs
+      links:
+        - title: 菜鸟教程
+          url: https://www.runoob.com
+          description:
+        - title: w3school
+          url: https://www.w3school.com.cn/
+          description:
+
+    - term: Win维护
+      links:
+        - title: Geeks3D
+          url: https://www.geeks3d.com/dlz
+          description: Geeks3D的工具下载页面
+        - title: 图吧工具箱
+          url: www.tbtool.cn
+          description:
+        - title: LDTools&ensp;-&ensp;LaodiTeachTips
+          url: https://ldtstore.com.cn/ldtools/LDTools&ensp;-&ensp;LaodiTeachTips
+          description: 老弟一号工具网站，收录众多工具
+
+- taxonomy: 安全审计
+  icon: fa fa-shield fa-fw
+  list: 
+    - term: 信息发掘
+      links:
+        - title: AnyKnew
+          url: https://www.anyknew.com
+          description: 高效读新闻, 5分钟遍历全网热点
+
+    - term: 网络安全
+      links:
+        - title: 来此加密
+          url: https://letsencrypt.osfipin.com/
+          description: 非首选，支持泛域名，但无法自动续订
+        - title: 公共 DNS 列表推荐
+          url: https://www.iplaysoft.com/public-dns.html
+          description: 来源：异次元软件世界
+        - title: Mrxn’s Blog
+          url: https://mrxn.net/
+          description: 关注web安全、热爱黑客技术
+
+    - term: ip定位
+      links:
+        - title: 埃文科技
+          url: https://www.ipplus360.com/
+          description: 最精准的引擎
+        - title: chaipip
+          url: http://chaipip.com/all.html
+          description: 高精度ip定位
+        - title: opengps IP3定位
+          url: https://www.opengps.cn/Data/IP/rtb.aspx
+          description: 可以锁定到一个很小的区域
+        - title: opengps IP4定位
+          url: https://www.opengps.cn/Data/IP/ipplus.aspx
+          description: 定位准确度非常高
+
+    - term: 病毒查杀
+      links:
+        - title: virustotal
+          url: https://www.virustotal.com/gui/home/upload
+          description:
+
+- taxonomy: 资源
+  icon: fa fa-film fa-fw
+  list: 
+    - term: 视频资源
+      links:
+        - title: 视频下载器-MikuTools
+          url: https://tools.miku.ac/youtube_dl/
+          description:
+        - title: savesubs
+          url: https://savesubs.com/zh
+          description: 视频网站字幕下载器
+        - title: 知客vip视频解析
+          url: https://vip.zkcee.com/#
+          description:
+        - title: 鼎天网络社区
+          url: https://www.dtcommunity.top/
+          description: 注册后有很多资源
+        - title: 全能网页视频解析下载
+          url: https://bilibili.iiilab.com/
+          description: 原来是解析B站视频的，现在啥都能解析
+        - title: TWDOWN
+          url: https://www.twdown.net/
+          description: Twitter Video Downloader
         - title: 阿里小站
           url: https://pan666.cn
           description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
-    - term: 字幕
-      links:
         - title: 字幕库
           url: https://zmk.pw/
         - title: SubHD
           url: https://subhd.tv/
-    - term: 音乐
+    - term: BT资源
       links:
+        - title: TrackersListCollection
+          url: https://trackerslist.com/#/zh
+          description: 全网热门 BitTorrent Tracker 列表！
+        - title: PikPak网盘
+          url: https://pikpak.progo.cc/
+          description: 可离线磁力
+        - title: btdig
+          url: https://btdig.com/
+          description:
+        - title: u3c3
+          url: https://u3c3.com/
+          description: 磁力H
+        - title: sukebei
+          url: https://sukebei.nyaa.si/
+          description: 磁力搜索（H)
+        - title: 磁力宝
+          url: http://clb6.me/
+          description:
+        - title: 0mag.xyz
+          url: https://0mag.xyz/
+          description: 磁力链网址聚合
+        - title: 大力盘
+          url: https://www.dalipan.com/#/
+          description: 网盘搜搜工具
+
+    - term: 安卓资源
+      links:
+        - title: MODYOLO.COM
+          url: https://modyolo.com/
+          description: 破解资源
+        - title: APK Combo
+          url: https://apkcombo.com/zh/
+          description:
+        - title: Redmod
+          url: https://redmod.co/
+          description: 修改版apk
+        - title: APKMirror
+          url: https://www.apkmirror.com/
+          description:
+        - title: Aptoide
+          url: https://yandex.en.aptoide.com/app
+          description:
+        - title: APKpure
+          url: https://apkpure.com/
+          description:
+
+    - term: 文档资源
+      links:
+        - title: 鸠摩搜索
+          url: https://www.jiumodiary.com/
+          description:
+
+    - term: 软件资源
+      links:
+        - title: Snapcraft
+          url: https://snapcraft.io/
+          description: snap软件源
+        - title: 字节智造
+          url: https://www.zsxcool.com/
+          description:
+        - title: 360软件宝库
+          url: https://baoku.360.cn/baokuweb.html
+          description:
+        - title: 腾讯软件中心
+          url: https://pc.qq.com/
+          description:
+        - title: 异星软件空间
+          url: https://www.yxssp.com/
+          description:
+        - title: 极简插件（Chrome）
+          url: https://chrome.zzzmh.cn/#/index
+          description:
+        - title: 小众软件
+          url: https://www.appinn.com/
+          description: 正版白票分享
+        - title: 🌟puresys
+          url: https://www.puresys.net/
+          description: 无需注册，高速网盘
+        - title: ⭐果核剥壳
+          url: https://www.ghxi.com/
+          description: 常用软件分享，注册用户可以每天限量高速下载  有购买正版的优惠
+        - title: 亿破姐
+          url: https://www.ypojie.com/
+          description: 破解资源
+
+    - term: 图书资源
+      links:
+        - title: 安娜的档案
+          url: https://zh.annas-archive.org/
+          description:
+        - title: 上海图书馆
+          url: https://www.library.sh.cn/
+          description:
+        - title: 书格
+          url: https://www.shuge.org/
+          description:
+        - title: 易书 书籍检索
+          url: https://search.yibook.org/
+          description:
+        - title: hallowlib
+          url: https://bk.hallowlib.org/
+          description:
+
+    - term: 脚本资源
+      links:
+        - title: Userscript.Zone
+          url: https://www.userscript.zone/?utm_source=tm.net&utm_medium=scripts
+          description:
+        - title: UserStyles.world
+          url: https://userstyles.world/
+          description: Stylus脚本
+        - title: 找脚本
+          url: https://www.zhaojiaoben.cn/
+          description: 虽然不多，但都很有用
+
+    - term: 资源搜索
+      links:
+        - title: 易搜
+          url: https://yiso.fun/
+          description:
+
+    - term: 音乐资源
+      links:
+        - title: MyFreeMP3
+          url: https://tools.liumingye.cn/music/#/
+          description:
+        - title: 人人钢琴网
+          url: https://www.everyonepiano.cn
+          description:
         - title: 果核音乐搜搜
           url: https://music.ghxi.com/
-        - title: 音乐磁场
-          url: https://www.hifini.com/
+- taxonomy: 设计
+  icon: fa fa-pencil fa-fw
+  links:
+    - title: Excalidraw
+      url: https://excalidraw.com/
+      description: 硅谷画图工具
+    - title: Miro
+      url: https://miro.com/app/dashboard
+      description: 白板工具No1
+    - title: 设计师之家
+      url: https://www.51sjsj.com/
+      description: 仅面向授权机构，资源非常丰富
+    - title: 即时设计
+      url: https://js.design/
+      description:
+    - title: 稿定
+      url: https://www.uupoop.com
+      description: 国内云PS
+    - title: figma
+      url: https://www.figma.com/file
+      description: 知名的协同设计头脑风暴工具
+    - title: 包小盒
+      url: https://www.baoxiaohe.com/
+      description: 全流程全能型包装设计平台
+
+
+- taxonomy: AI
+  icon: fa fa-trophy fa-fw
+  list: 
+    - term: AI创作
+      links:
+        - title: 周报生成器
+          url: https://weeklyreport.avemaria.fun/zh
+          description:
+        - title: ChatPPT
+          url: https://chat-ppt.com/
+          description: AI一键对话生成PPT
+    - term: AI文生图
+      links:
+        - title: DALL·E
+          url: https://labs.openai.com/
+          description:
+        - title: DreamStudio
+          url: https://legacy.dreamstudio.ai/dream
+          description:
+        - title: 图宇宙（平台
+          url: https://www.nolibox.com/home/designPlanet
+          description:
+        - title: 画宇宙
+          url: https://creator.nolibox.com/
+          description:
+
+    - term: AI聊天
+      links:
+        - title: 讯飞星火认知大模型
+          url: https://xinghuo.xfyun.cn/desk
+          description:
+        - title: AI.LS
+          url: https://ai.ls
+          description:
+        - title: new 必应
+          url: https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx
+          description:
+        - title: 哔哔终结者 BibiGPT
+          url: https://b.jimmylv.cn/
+          description:
+        - title: chatGPT
+          url: https://chat.openai.com/chat
+          description:
+
+- taxonomy: 游戏
+  icon: fa fa-gamepad fa-fw
+  list: 
+    - term: 游戏资源
+      links:
+        - title: Switch520
+          url: https://www.gamer520.com/
+          description: 各大平台游戏，无需登录，网盘下载
+        - title: flysheep资源避难所
+          url: https://www.flysheep6.com/
+          description:
+        - title: 小妖怪分享
+          url: https://www.xyg688.com/
+          description: ⭐⭐⭐
+    - term: switch
+      links:
+        - title: 时鹏亮的Blog
+          url: https://shipengliang.com/
+          description: 其实还有其他主机的资源
+        - title: Tinfoil Documentation
+          url: https://blawar.github.io/tinfoil/custom_index/
+          description: Tinfoil shop构建说明
+        - title: tinson–Tinfoil shop json生成器
+          url: https://tinson.herokuapp.com/
+          description: 用来自制shop，不过只支持googledrive
+
+    - term: PC
+      links:
+        - title: 达芬奇（lilith）
+          url: https://www.projectdavinci.com/
+          description:
+
+    - term: 在线小游戏
+      links:
+        - title: Sudoku数独
+          url: https://sudoku.jull.dev/
+          description:
+        - title: The Cube
+          url: https://bsehovac.github.io/the-cube/
+          description: 在线拧魔方
+
+    - term: 游戏制作
+      links:
+        - title: 谌嘉诚
+          url: https://www.hellocjc.com/
+          description:
+
+
 
 - taxonomy: 游戏
   icon: fa-chess
