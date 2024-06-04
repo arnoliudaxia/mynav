@@ -1,0 +1,12 @@
+[build]
+command = "hugo --minify"
+
+[env]
+HUGO_VERSION = "0.83.1" # 指定你想要使用的Hugo版本
+
+[[static]]
+from = "public" # Hugo默认将生成的静态文件放置在public目录下
+to = "/"
+
+[routes]
+"/" = "$STATIC_ROOT/" # 将根路径映射到静态文件的根目录
