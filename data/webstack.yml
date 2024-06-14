@@ -123,6 +123,10 @@
 - taxonomy: 工具
   icon: fa-inbox
   list: 
+    - term: 超级工具集合
+      links:
+        - title: MikuTools
+          url: https://tools.miku.ac/
     - term: 语言工具
       links:
         - title: Emojityper
