@@ -89,9 +89,12 @@
         - title: latex表格生成器
           url: https://www.tablesgenerator.com/
           description:
-        - title: overleaf超强在线latex
+        - title: overleaf
           url: https://cn.overleaf.com/project
-          description:
+          description: 超强在线latex
+        - title: Slager
+          url: https://www.slager.link/#/home
+          description: overleaf平替
         - title: LaTeX公式编辑器ver1.6.3
           url: https://www.latexlive.com/home##
           description: 体验4颗星
