@@ -987,6 +987,12 @@
         - title: 造字工坊
           url: https://makefont.com/
           description: 造字工坊官网
+        - title: 字体天下
+          url: https://www.fonts.net.cn/
+          description: 无需登录下载字体
+        - title: 字集
+          url: https://wordshub.github.io/free-font/font.html?SiYuanHeiTi_Regular#try
+          description: 无需登录下载字体
 
 - taxonomy: 设计
   icon: fa fa-pencil fa-fw
