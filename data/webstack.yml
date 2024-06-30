@@ -44,7 +44,7 @@
         - title: 字节热点
           url: https://trendinsight.oceanengine.com/arithmetic-index
           description: 
-        - title: 百度热点指数
+        - title: 百度热点指数                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
           url: https://index.baidu.com/v2/index.html#/
           description: 
         - title: 大数据导航
@@ -470,7 +470,9 @@
         - title: PageSpeed Insights
           url: https://pagespeed.web.dev/
           description: Google的网站性能分析工具，会给出一些专业建议
-
+        - title: IP Check
+          url: https://ipcheck.ing/#/invisibilitytest
+          description: 上网状态综合测试
     - term: wordpress相关资源
       links:
         - title: tasteWP
