@@ -71,7 +71,6 @@ jobs:
           git add .
           git commit -m "Deploy updates"
           git push origin gh-pages
-		  
   # Deployment job
   deploy:
     environment:
