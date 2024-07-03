@@ -65,11 +65,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git clone --depth=1 --branch=gh-pages https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
-          rsync -av --delete ./public/ gh-pages/
-          cd gh-pages
-          git add .
-          git commit -m "Deploy updates"
+          git add -f ./public/
+          git commit -m "Deploy Build Website"
           git push origin gh-pages
   # Deployment job
   deploy:
