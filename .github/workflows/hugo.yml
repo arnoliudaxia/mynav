@@ -61,7 +61,17 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
-
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git clone --depth=1 --branch=gh-pages https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} gh-pages
+          rsync -av --delete ./public/ gh-pages/
+          cd gh-pages
+          git add .
+          git commit -m "Deploy updates"
+          git push origin gh-pages
+		  
   # Deployment job
   deploy:
     environment:
