@@ -743,7 +743,9 @@
         - title: 行政区划着色
           url: https://www.opengps.cn/Map/Tools/Area.aspx
           description: 形象地展示一个行政区域的边界
-
+        - title: 高德GIS
+          url: https://lbs.amap.com/product/mapstyle#/
+          description: 丰富的样式，专业的数据
 - taxonomy: 论坛站点
   icon: fa-users 
   links:
