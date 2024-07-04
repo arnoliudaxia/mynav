@@ -61,13 +61,6 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
-      - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -f ./public/
-          git commit -m "Deploy Build Website"
-          git push origin gh-pages
   # Deployment job
   deploy:
     environment:
