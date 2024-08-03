@@ -2,7 +2,7 @@
 command = "hugo --minify"
 
 [env]
-HUGO_VERSION = "0.83.1" # 指定你想要使用的Hugo版本
+HUGO_VERSION = "0.120.4" # 指定你想要使用的Hugo版本
 
 [[static]]
 from = "public" # Hugo默认将生成的静态文件放置在public目录下
