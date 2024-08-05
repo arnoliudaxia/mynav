@@ -950,6 +950,9 @@
 
     - term: 图书资源
       links:
+        - title: ZLibary Z-Library
+          url: https://zh.z-lib.gs/
+          description: 无需多言
         - title: 安娜的档案
           url: https://zh.annas-archive.org/
           description:
