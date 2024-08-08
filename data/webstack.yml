@@ -836,9 +836,9 @@
   list: 
     - term: 视频资源
       links:
-        - title: 视频下载器-MikuTools
-          url: https://tools.miku.ac/youtube_dl/
-          description:
+        - title: 小纸条：阿里云资源分享站
+          url: http://o.gitcafe.net/
+          description: 纯粹的阿里云资源分享网站，一个直接的 html 页面列
         - title: savesubs
           url: https://savesubs.com/zh
           description: 视频网站字幕下载器
