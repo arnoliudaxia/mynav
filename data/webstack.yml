@@ -836,12 +836,12 @@
   list: 
     - term: 视频资源
       links:
-        - title: 小纸条：阿里云资源分享站
-          url: http://o.gitcafe.net/
-          description: 纯粹的阿里云资源分享网站，一个直接的 html 页面列
-        - title: savesubs
-          url: https://savesubs.com/zh
-          description: 视频网站字幕下载器
+        - title: 网盘小站
+          url: https://vip.zkcee.com/#
+          description: 夸克资源
+        - title: 阿里小站
+          url: https://pan666.net/
+          description: 也有夸克的
         - title: 知客vip视频解析
           url: https://vip.zkcee.com/#
           description:
@@ -854,9 +854,10 @@
         - title: TWDOWN
           url: https://www.twdown.net/
           description: Twitter Video Downloader
-        - title: 阿里小站
-          url: https://pan666.cn
-          description: 阿里云盘资源共享站。人人为我，我为人人的共享资源社区
+
+        - title: savesubs
+          url: https://savesubs.com/zh
+          description: 视频网站字幕下载器
         - title: 字幕库
           url: https://zmk.pw/
         - title: SubHD
