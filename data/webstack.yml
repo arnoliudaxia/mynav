@@ -1069,7 +1069,14 @@
         - title: chatGPT
           url: https://chat.openai.com/chat
           description:
-
+    - term: Nerf
+      links:
+        - title: Polycam
+          url: https://poly.cam/
+          description:
+        - title: Luma
+          url: https://lumalabs.ai/dream-machine
+          description:
 - taxonomy: 游戏
   icon: fa fa-gamepad fa-fw
   list: 
