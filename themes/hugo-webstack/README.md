@@ -199,7 +199,7 @@ icon：fa-regular fa-star
 
 #### logo: 导航网址的图标
 
-1. 使用api自动获取，**留空或去掉**"logo" 配置项即自动在线加载logo图标。api提供者：**[一为API](https://api.iowen.cn/)**, thanks!
+1. 使用api自动获取，**留空或去掉**"logo" 配置项即自动在线加载logo图标。api替换成https://favicon.cccyun.cc/。
 
 2. 使用本地静态文件，存放路径：`/static/images/logos/`；
 
