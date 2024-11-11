@@ -174,7 +174,6 @@
         - title: 图片背景消除
           url: https://www.remove.bg/zh
           description:
-
         - title: Upscale Media
           url: https://www.upscale.media/zh
           description: 图片放大，免费使用
@@ -190,7 +189,9 @@
         - title: 蚂蚁压缩
           url: https://ant.ciding.cc/
           description: 图片压缩下载工具，最好不要当做外链
-
+        - title: mathpix公式识别
+          url: https://snip.mathpix.com/home
+          description: 可以识别pdf图片
     - term: PDF工具
       links:
         - title: 云展网办公工具集
@@ -1094,6 +1095,13 @@
         - title: 小妖怪分享
           url: https://www.xyg688.com/
           description: ⭐⭐⭐
+        - title: Gamebox
+          url: https://www.appmiu.com/21431.html
+          description: 游戏分享（基于天意网盘）
+        - title: koyso
+          url: https://koyso.com/
+          description: 绅士游戏，但有很多跳转广告
+          
     - term: switch
       links:
         - title: 时鹏亮的Blog
