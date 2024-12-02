@@ -560,6 +560,9 @@
 
     - term: 图标素材
       links:
+        - title: openmoji
+          url: https://openmoji.dashgame.com/
+          description: 扁平化面型柔和色SVG图标CC4协议
         - title: iconfont
           url: https://www.iconfont.cn
           description: 图标+插画
