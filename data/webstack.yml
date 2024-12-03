@@ -584,7 +584,9 @@
         - title: Flaticon
           url: https://www.flaticon.com
           description: 图标贴纸，Chrome，png免费
-
+        - title: Simple Icons
+          url: https://simpleicons.org/
+          description: 商标SVG
     - term: 影像素材
       links:
         - title: lifeofvids
