@@ -539,7 +539,17 @@
         - title: FoodiesFeed
           url: https://www.foodiesfeed.com/
           description: 国外稍慢，食品素材
-
+        - title: 图虫
+          url: https://tuchong.com/
+          description: 
+    - term: 纹理素材
+      links:
+        - title: Toptal
+          url: https://www.toptal.com/designers/subtlepatterns/
+          description: Toptal的其中一个小工具
+        - title: The Pattern Library
+          url: http://thepatternlibrary.com/
+          description: 在线Pattern查看
     - term: 插画素材
       links:
         - title: iconfont
@@ -557,7 +567,9 @@
         - title: pixabay
           url: https://pixabay.com
           description: 大名鼎鼎
-
+        - title: manypixels
+          url: https://www.manypixels.co/
+          description: Free illustrations to power up your designs
     - term: 图标素材
       links:
         - title: openmoji
@@ -771,6 +783,11 @@
 - taxonomy: 编程IT
   icon: fa-info
   list:
+    - term: 通用工具
+      links:
+        - title: gitignore.io
+          url: https://www.toptal.com/developers/gitignore
+          description: 生成gitignore
     - term: js
       links:
         - title: 菜鸟JS压缩与反压缩
