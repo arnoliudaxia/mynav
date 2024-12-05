@@ -688,7 +688,18 @@
         - title: 第一PPT > PPT音效
           url: https://www.1ppt.com/music/music_6.html
           description:
-
+        - title: 耳聆网
+          url: https://www.ear0.com/
+          description:
+        - title: 淘声网
+          url: https://www.tosound.com/
+          description: toSound声音搜索引擎
+        - title: videvo免版权
+          url: https://www.videvo.net/royalty-free-sound-effects/
+          description: 
+        - title: SONNISS免费分享
+          url: https://sonniss.com/gameaudiogdc
+          description: 
     - term: 3D模型素材
       links:
         - title: AnythingWorld
