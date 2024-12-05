@@ -700,6 +700,9 @@
         - title: SONNISS免费分享
           url: https://sonniss.com/gameaudiogdc
           description: 
+        - title: 爱给网音效
+          url: https://www.aigei.com/
+          description: 
     - term: 3D模型素材
       links:
         - title: AnythingWorld
@@ -1058,8 +1061,12 @@
     - title: 包小盒
       url: https://www.baoxiaohe.com/
       description: 全流程全能型包装设计平台
-
-
+    - title: 网页常用色彩 - 站长工具
+      url: https://tool.chinaz.com/tools/use
+      description: 
+    - title: flatuicolorpicker找颜色变体
+      url: https://www.flatuicolorpicker.com/all-colors/
+      description: 
 - taxonomy: AI
   icon: fa fa-trophy fa-fw
   list: 
