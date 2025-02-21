@@ -12,7 +12,7 @@
       url: 
       description:
     - title: fileshare
-      url: https://fileshare.liuyf7.top/
+      url: https://fileshare.arnoliu.top/
       description: 文件分享站点
 - taxonomy: 学术
   icon: fa-graduation-cap
@@ -22,9 +22,6 @@
         - title: 国家哲学社会科学学术期刊数据库
           url: http://www.nssd.cn/
           description: 直接下载国家下场
-        - title: iData论文免费
-          url: https://www.cn-ki.net/
-          description: 可以免费下载论文，bhwyaip7m@mail.0du.win
         - title: 中国知网
           url: https://www.cnki.net/
           description:
@@ -72,7 +69,7 @@
         - title: Nicky’s website
           url: https://ncase.me/
           description:
-        - title: whatif漫画奇想
+        - title: whatif漫画奇想(墙)
           url: https://whatif.xkcd.com/
           description:
         - title: 蓝点网
@@ -86,7 +83,7 @@
         - title: 在线公式识别SimpleTex
           url: https://www.simpletex.cn/
           description:
-        - title: latex表格生成器
+        - title: latex表格生成器（墙）
           url: https://www.tablesgenerator.com/
           description:
         - title: overleaf
@@ -112,9 +109,6 @@
         - title: 古诗文网
           url: https://www.gushiwen.cn/default_1.aspx
           description:
-        - title: 我是学生网
-          url: http://www1.xuesheng360.cn/xuesheng/e/wap/daan_sh.php
-          description:
 
     - term: 研究机构
       links:
@@ -135,7 +129,7 @@
         - title: Emojityper
           url: https://emojityper.com/
           description: 方便输入emoji的小工具
-        - title: 希腊字母书写教程
+        - title: 希腊字母书写教程（墙）
           url: http://www.foundalis.com/lan/hw/grkhandw.htm
           description: Greek Handwriting — Handwritten letters
         - title: 小楠日语
@@ -159,7 +153,7 @@
 
     - term: 图片工具
       links:
-        - title: clipdrop-AI图像处理工具箱
+        - title: clipdrop-AI图像处理工具箱（墙）
           url: https://clipdrop.co/
           description:
         - title: 佐糖
@@ -191,7 +185,10 @@
           description: 图片压缩下载工具，最好不要当做外链
         - title: mathpix公式识别
           url: https://snip.mathpix.com/home
-          description: 可以识别pdf图片
+          description: 可以识别pdf图片  
+        - title: 栅格化转矢量化
+          url: https://www.bejson.com/convert/image_to_svg/
+          description: 直接出svg源代码
     - term: PDF工具
       links:
         - title: 云展网办公工具集
@@ -236,12 +233,9 @@
         - title: 夸克网盘
           url: https://pan.quark.cn/
           description:
-        - title: GoogleDrive
+        - title: GoogleDrive（墙）
           url: https://drive.google.com/drive
           description:
-        - title: PikPak网盘
-          url: https://pikpak.progo.cc/
-          description: 可以无限离线，免费6G的离谱网盘
         - title: 123网盘
           url: https://www.123pan.com/
           description:
@@ -260,7 +254,7 @@
         - title: 一刻相册
           url: https://photo.baidu.com/photo/web/home
           description:
-        - title: dropbox
+        - title: dropbox（墙）
           url: https://www.dropbox.com/home
           description: 有墙
         - title: 天翼云
@@ -281,8 +275,8 @@
     - term: 文件浏览器
       links:
         - title: Neat Reader EPUB阅读器
-          url: http://www.neat-reader.cn/app#/
-          description:
+          url: http://www.neat-reader.cn/
+          description: 只能临时用一用
 
     - term: ==江湖中人==
 
@@ -291,7 +285,7 @@
         - title: tempmail
           url: https://temp-mail.org/zh/
           description:
-        - title: 无名
+        - title: 临时邮箱（墙）
           url: https://www.linshiyouxiang.net/
           description:
         - title: Jaz Mail
@@ -401,12 +395,6 @@
 
     - term: API
       links:
-        - title: 韩小韩WebAPI接口
-          url: https://api.vvhan.com/
-          description: 致力于为开发者提供便捷、免费、稳定、快速的免费Web API数据接口服务。
-        - title: portquiz
-          url: http://portquiz.net:78
-          description: 测试端口连通性
 
         - title: 获取网站的 favicon
           url: http://favicon.cccyun.cc/
@@ -471,7 +459,7 @@
         - title: ssleye-SSL工具
           url: https://www.ssleye.com/ssltool/
           description: 为用户提供证书工具、校验工具、SSL漏洞检测等多达20多种SSL工具，如CSR查看、证书查看、测试证书生成、证书格式转换、CAA检测、ATS检测、小程序SSL检测、SSL漏洞检测等。
-        - title: PageSpeed Insights
+        - title: PageSpeed Insights（墙）
           url: https://pagespeed.web.dev/
           description: Google的网站性能分析工具，会给出一些专业建议
         - title: IP Check
@@ -492,7 +480,7 @@
 
     - term: 文件直链
       links:
-        - title: catbox
+        - title: catbox（墙）
           url: https://catbox.moe/#
           description:
         - title: 123云盘
@@ -518,12 +506,9 @@
 
     - term: 大图素材
       links:
-        - title: Unsplash
+        - title: Unsplash（墙）
           url: https://unsplash.com/
           description: 虽然只有英文，但是它什么东西都有啊
-        - title: 西田图像·SITAPIX
-          url: https://www.sitapix.com/
-          description: 人性化分类，海量素材，良好版权标示
         - title: 极简壁纸
           url: https://bz.zzzmh.cn/index
           description:
@@ -536,7 +521,7 @@
         - title: pixabay
           url: https://pixabay.com
           description: 大名鼎鼎
-        - title: FoodiesFeed
+        - title: FoodiesFeed（墙）
           url: https://www.foodiesfeed.com/
           description: 国外稍慢，食品素材
         - title: 图虫
@@ -587,7 +572,7 @@
         - title: worldvectorlogo
           url: https://worldvectorlogo.com/
           description: Brand Logos
-        - title: Animated Fluent Emojis
+        - title: Animated Fluent Emojis（墙）
           url: https://animated-fluent-emoji.vercel.app/
           description: 微软动画表情 apng
         - title: Reshot
@@ -601,9 +586,6 @@
           description: 商标SVG
     - term: 影像素材
       links:
-        - title: lifeofvids
-          url: https://lifeofvids.com
-          description: 生活类题材的视频片段
         - title: pexels
           url: https://www.pexels.com/zh-cn/
           description: 摄影作品和影像
@@ -723,9 +705,9 @@
         - title: 图说
           url: https://tushuo.baidu.com/wave/index#/gallery
           description: 在线图标绘制工具，可以导出Echarts代码，也可以导出图片
-        - title: notionpet
-          url: https://notion.pet/#/
-          description: 各种有趣的HTML小组件。可以用于notion，也可以放在iframe里
+        - title: 组件世界
+          url: https://cn.widgetstore.net/
+          description: 曾经的notionpet
         - title: Shields
           url: https://shields.io
           description: Github小牌子
@@ -772,7 +754,7 @@
         - title: 高德地图定位选点
           url: https://lbs.amap.com/tools/picker
           description:
-        - title: 谷歌地图
+        - title: 谷歌地图（墙）
           url: https://www.google.com/maps
           description:
         - title: 行政区划着色
@@ -790,7 +772,7 @@
     - title: 52pojie
       url: https://www.52pojie.cn
       description:
-    - title: 看雪（安全）
+    - title: 看雪（安全）（墙）
       url: https://bbs.pediy.com/
       description:
 
@@ -885,9 +867,6 @@
         - title: 知客vip视频解析
           url: https://vip.zkcee.com/#
           description:
-        - title: 鼎天网络社区
-          url: https://www.dtcommunity.top/
-          description: 注册后有很多资源
         - title: 全能网页视频解析下载
           url: https://bilibili.iiilab.com/
           description: 原来是解析B站视频的，现在啥都能解析
@@ -907,16 +886,16 @@
         - title: TrackersListCollection
           url: https://trackerslist.com/#/zh
           description: 全网热门 BitTorrent Tracker 列表！
-        - title: PikPak网盘
+        - title: PikPak网盘（墙）
           url: https://pikpak.progo.cc/
-          description: 可离线磁力
-        - title: btdig
+          description: 可以无限离线，免费6G的离谱网盘
+        - title: btdig（墙）
           url: https://btdig.com/
           description:
-        - title: u3c3
+        - title: u3c3（墙）
           url: https://u3c3.com/
           description: 磁力H
-        - title: sukebei
+        - title: sukebei（墙）
           url: https://sukebei.nyaa.si/
           description: 磁力搜索（H)
         - title: 磁力宝
@@ -925,7 +904,7 @@
         - title: 0mag.xyz
           url: https://0mag.xyz/
           description: 磁力链网址聚合
-        - title: 大力盘
+        - title: 大力盘（墙）
           url: https://www.dalipan.com/#/
           description: 网盘搜搜工具
 
@@ -934,19 +913,19 @@
         - title: MODYOLO.COM
           url: https://modyolo.com/
           description: 破解资源
-        - title: APK Combo
+        - title: APK Combo（墙）
           url: https://apkcombo.com/zh/
           description:
         - title: Redmod
           url: https://redmod.co/
           description: 修改版apk
-        - title: APKMirror
+        - title: APKMirror（墙）
           url: https://www.apkmirror.com/
           description:
-        - title: Aptoide
+        - title: Aptoide（墙）
           url: https://yandex.en.aptoide.com/app
           description:
-        - title: APKpure
+        - title: APKpure（墙）
           url: https://apkpure.com/
           description:
 
@@ -961,7 +940,7 @@
         - title: Snapcraft
           url: https://snapcraft.io/
           description: snap软件源
-        - title: 字节智造
+        - title: 字节智造（墙）
           url: https://www.zsxcool.com/
           description:
         - title: 360软件宝库
@@ -991,10 +970,10 @@
 
     - term: 图书资源
       links:
-        - title: ZLibary Z-Library
+        - title: ZLibary Z-Library（墙）
           url: https://zh.z-lib.gs/
-          description: 无需多言
-        - title: 安娜的档案
+          description: 伟大无需多言
+        - title: 安娜的档案（墙）
           url: https://zh.annas-archive.org/
           description:
         - title: 上海图书馆
@@ -1003,7 +982,7 @@
         - title: 书格
           url: https://www.shuge.org/
           description: 在线古籍图书馆
-        - title: hallowlib
+        - title: hallowlib（墙）
           url: https://bk.hallowlib.org/
           description:
 
@@ -1033,8 +1012,6 @@
         - title: 人人钢琴网
           url: https://www.everyonepiano.cn
           description:
-        - title: 果核音乐搜搜
-          url: https://music.ghxi.com/
 
 
 - taxonomy: 设计
@@ -1147,15 +1124,9 @@
         - title: Tinfoil Documentation
           url: https://blawar.github.io/tinfoil/custom_index/
           description: Tinfoil shop构建说明
-        - title: tinson–Tinfoil shop json生成器
+        - title: tinson–Tinfoil shop json生成器（墙）
           url: https://tinson.herokuapp.com/
           description: 用来自制shop，不过只支持googledrive
-
-    - term: PC
-      links:
-        - title: 达芬奇（lilith）
-          url: https://www.projectdavinci.com/
-          description:
 
     - term: 在线小游戏
       links:
