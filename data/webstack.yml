@@ -699,6 +699,10 @@
         - title: ambientCG
           url: https://ambientcg.com/
           description: 高质量skybox, 材质
+        - title: Poly Haven
+          url: https://polyhaven.com/
+          description: HDRIs, Textures, Models
+          
 
     - term: HTML素材
       links:
@@ -916,9 +920,6 @@
         - title: APK Combo（墙）
           url: https://apkcombo.com/zh/
           description:
-        - title: Redmod
-          url: https://redmod.co/
-          description: 修改版apk
         - title: APKMirror（墙）
           url: https://www.apkmirror.com/
           description:
