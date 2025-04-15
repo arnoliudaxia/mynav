@@ -938,6 +938,9 @@
 
     - term: 软件资源
       links:
+        - title: 大眼仔旭
+          url: https://www.dayanzai.me/
+          description: 软件分享
         - title: Snapcraft
           url: https://snapcraft.io/
           description: snap软件源
