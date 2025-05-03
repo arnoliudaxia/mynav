@@ -212,12 +212,15 @@
     - term: ==文件专家==
     - term: 文件传输
       links:
-        - title: 奶牛快传
-          url: https://cowtransfer.com/
-          description: 需要登录，可以传大文件
+        - title: 云鸽
+          url: https://yunge.in/
+          description: 内外网临时传输，外网速度慢
         - title: musetransfer
           url: https://musetransfer.com/
-          description: 2G以内可以传，可以吃满宽带
+          description: 2G以内可以传，可以吃满宽带，有流量限制
+        - title: PP直连
+          url: https://www.ppzhilian.com/
+          description: 功能更加丰富的云鸽
         - title: 文叔叔 – 传文件
           url: https://www.wenshushu.cn/
           description:
