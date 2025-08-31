@@ -509,7 +509,10 @@
         - title: netlify
           url: https://app.netlify.com/
           description: 只支持纯静态
-          
+        - title: stackblitz
+          url: https://stackblitz.com/
+          description: Nodejs在线IDE
+
 - taxonomy: 素材网站
   icon: fa-paint-brush
   list: 
