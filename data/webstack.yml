@@ -504,7 +504,12 @@
         - title: cron-job
           url: https://console.cron-job.org/
           description: 自动定期访问网页
-
+    - term: PaaS
+      links:
+        - title: netlify
+          url: https://app.netlify.com/
+          description: 只支持纯静态
+          
 - taxonomy: 素材网站
   icon: fa-paint-brush
   list: 
