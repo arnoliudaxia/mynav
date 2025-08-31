@@ -280,6 +280,13 @@
         - title: Neat Reader EPUB阅读器
           url: http://www.neat-reader.cn/
           description: 只能临时用一用
+    
+    - term: 文件内容解析
+      links:
+        - title: Doc2x
+          url: https://doc2x.noedgeai.com/
+          description: 致力于提供最精确的文档识别方案，目标成为一切AI文档服务的基础设施
+
 
     - term: ==江湖中人==
 
