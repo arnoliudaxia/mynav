@@ -20,7 +20,7 @@
     - term: 论文
       links:
         - title: 国家哲学社会科学学术期刊数据库
-          url: http://www.nssd.cn/
+          url: https://www.ncpssd.cn/
           description: 直接下载国家下场
         - title: 中国知网
           url: https://www.cnki.net/
@@ -36,23 +36,26 @@
         - title: 199IT
           url: http://www.199it.com/
           description: TMT行业研究
-    - term: 数据库
-      links:
         - title: 字节热点
           url: https://trendinsight.oceanengine.com/arithmetic-index
           description: 
         - title: 百度热点指数                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
           url: https://index.baidu.com/v2/index.html#/
           description: 
-        - title: 大数据导航
-          url: http://hao.199it.com/
-          description: 数据调查门户网站      
+    - term: 数据库
+      links:
         - title: 国家统计局国家数据（官）
           url: https://data.stats.gov.cn/index.htm
           description: 国家下场
         - title: 中国政府采购数据库（官）
           url: http://www.ccgp.gov.cn/
-          description: 
+          description:
+        - title: StatCounter
+          url: https://gs.statcounter.com/
+          description: 全球浏览器、操作系统和搜索引擎市场份额分析
+        - title: AirNav Radar
+          url: https://www.airnavradar.com/
+          description: 全球实时航班追踪和机场状态查询 
     - term: 广义数学
       links:
         - title: 看见统计
@@ -115,6 +118,12 @@
         - title: Our World in Data
           url: https://ourworldindata.org/
           description:
+
+    - term: 图书馆
+      links:
+        - title: Internet Archive
+          url: https://web.archive.org/
+          description: 互联网档案馆，保存网页历史快照和数字资源
 
 
 - taxonomy: 工具
