@@ -1188,6 +1188,7 @@
 
 - taxonomy: 记忆命途行者
   icon: fa fa-trash fa-fw
+  description: 曾经存在的有趣网站，但已经消逝在时间的长河中
   links:
     - title: kinhdown网盘解析
       url: https://kinhdown.com/?Type=Web
@@ -1195,4 +1196,58 @@
     - title: 时光机
       url: https://cui.la/
       description: 方便有效的工具，五星推荐
+    - title: iData论文免费
+      url: https://www.cn-ki.net/
+      description: 可以免费下载论文，bhwyaip7m@mail.0du.win
+    - title: 我是学生网
+      url: http://www1.xuesheng360.cn/xuesheng/e/wap/daan_sh.php
+      description:
+    - title: PikPak网盘
+      url: https://pikpak.progo.cc/
+      description: 可以无限离线，免费6G的离谱网盘
+    - title: 奶牛快传
+      url: https://cowtransfer.com/
+      description: 需要登录，可以传大文件
+    - title: 韩小韩WebAPI接口
+      url: https://api.vvhan.com/
+      description: 致力于为开发者提供便捷、免费、稳定、快速的免费Web API数据接口服务。
+    - title: portquiz
+      url: http://portquiz.net:78
+      description: 测试端口连通性
+    - title: ACL4SSR_在线订阅转换
+      url: https://acl4ssr.netlify.app
+      description: 一些订阅转换服务网站收集
+    - title: 西田图像·SITAPIX
+      url: https://www.sitapix.com/
+      description: 人性化分类，海量素材，良好版权标示
+    - title: lifeofvids
+      url: https://lifeofvids.com
+      description: 生活类题材的视频片段
+    - title: notionpet
+      url: https://notion.pet/#/
+      description: 各种有趣的HTML小组件。可以用于notion，也可以放在iframe里
+    - title: 鼎天网络社区
+      url: https://www.dtcommunity.top/
+      description: 注册后有很多资源
+    - title: 小纸条：阿里云资源分享站
+      url: http://o.gitcafe.net/
+      description: 纯粹的阿里云资源分享网站，一个直接的 html 页面列
+    - title: 视频下载器-MikuTools
+      url: https://tools.miku.ac/youtube_dl/
+      description:
+    - title: Redmod
+      url: https://redmod.co/
+      description: 修改版apk
+    - title: 易书 书籍检索
+      url: https://search.yibook.org/
+      description:
+    - title: 果核音乐搜搜
+      url: https://music.ghxi.com/
+      description:
+    - title: 达芬奇（lilith）
+      url: https://www.projectdavinci.com/
+      description:
+    - title: 音乐磁场
+      url: https://www.hifini.com/
+      description:
 ---
