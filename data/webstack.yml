@@ -445,24 +445,12 @@
 
     - term: 运维人
       links:
-        - title: 阿里云控制台
-          url: https://homenew.console.aliyun.com/home/scene/ProductAndService
-          description:
-        - title: cloudflare
-          url: https://dash.cloudflare.com
-          description:
         - title: instant.page
           url: https://instant.page/
           description: 预加载页面来起到加速的作用
         - title: OHTTPS
           url: https://www.ohttps.com/monitor/dashboard
           description: 首选免费证书，支持泛域名
-        - title: 华为云控制台
-          url: https://console.huaweicloud.com/console
-          description:
-        - title: 百度云控制台
-          url: https://console.bce.baidu.com
-          description:
         - title: 来此加密
           url: https://letsencrypt.osfipin.com/
           description: 非首选，支持泛域名，但无法自动续订
@@ -512,6 +500,20 @@
         - title: stackblitz
           url: https://stackblitz.com/
           description: Nodejs在线IDE
+    - term: IaaS
+      links:
+        - title: 阿里云控制台
+          url: https://homenew.console.aliyun.com/home/scene/ProductAndService
+          description: 阿里巴巴的云计算服务平台
+        - title: 华为云控制台
+          url: https://console.huaweicloud.com/console
+          description: 华为的云计算服务平台
+        - title: 百度云控制台
+          url: https://console.bce.baidu.com
+          description: 百度的云计算服务平台
+        - title: cloudflare
+          url: https://dash.cloudflare.com
+          description: CDN和DNS服务提供商
 
 - taxonomy: 素材网站
   icon: fa-paint-brush
