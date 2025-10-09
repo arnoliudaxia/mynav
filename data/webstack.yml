@@ -67,9 +67,6 @@
         - title: 蓝点网
           url: https://www.landian.vip/
           description: 科技咨询
-        - title: Crash Course 中文字幕组
-          url: https://crashcourse.club/
-          description: 高质量的crash course翻译，但是部分…
         - title: 看见统计
           url: https://seeing-theory.brown.edu/cn.html#firstPage
           description: 可视化概率与统计入门
@@ -1257,4 +1254,7 @@
     - title: 统计之都
       url: https://cosx.org/
       description: 统计学学术新闻，来源邱子羽老师
+    - title: Crash Course 中文字幕组
+      url: https://crashcourse.club/
+      description: 高质量的crash course翻译，但是部分…
 ---
