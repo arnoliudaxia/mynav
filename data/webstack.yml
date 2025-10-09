@@ -56,17 +56,6 @@
         - title: AirNav Radar
           url: https://www.airnavradar.com/
           description: 全球实时航班追踪和机场状态查询 
-    - term: 广义数学
-      links:
-        - title: 看见统计
-          url: https://seeing-theory.brown.edu/cn.html#firstPage
-          description: 可视化概率与统计入门
-        - title: mathigon
-          url: https://cn.mathigon.org/
-          description: 数学游乐场
-        - title: 统计之都
-          url: https://cosx.org/
-          description: 统计学学术新闻，来源邱子羽老师
     - term: 科普新闻
       links:
         - title: Nicky’s website
@@ -81,6 +70,12 @@
         - title: Crash Course 中文字幕组
           url: https://crashcourse.club/
           description: 高质量的crash course翻译，但是部分…
+        - title: 看见统计
+          url: https://seeing-theory.brown.edu/cn.html#firstPage
+          description: 可视化概率与统计入门
+        - title: mathigon
+          url: https://cn.mathigon.org/
+          description: 数学游乐场
     - term: 学术工具
       links:
         - title: 在线公式识别SimpleTex
@@ -1259,4 +1254,7 @@
     - title: 音乐磁场
       url: https://www.hifini.com/
       description:
+    - title: 统计之都
+      url: https://cosx.org/
+      description: 统计学学术新闻，来源邱子羽老师
 ---
