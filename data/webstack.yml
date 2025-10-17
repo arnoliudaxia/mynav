@@ -190,6 +190,9 @@
         - title: 栅格化转矢量化
           url: https://www.bejson.com/convert/image_to_svg/
           description: 直接出svg源代码
+        - title: aspose
+          url: https://products.aspose.app/3d/conversion
+          description: 3D模型格式转换
     - term: PDF工具
       links:
         - title: 云展网办公工具集
